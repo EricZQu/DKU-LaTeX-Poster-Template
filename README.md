@@ -2,7 +2,7 @@
 
 ![](demos/demo.jpeg)
 
-This is an unofficial LaTeX poster template, adapted from [Stanford](https://github.com/RylanSchaeffer/Stanford-LaTeX-Poster-Template). The color palette is taken from the [Brand Identity System for Duke Kunshan University](https://dku-web-admissions.s3.cn-north-1.amazonaws.com.cn/dkumain/wp-content/uploads/mainsite/2022/05/brand-guide-compressed_2021.pdf).
+This is an unofficial LaTeX poster template for Duke Kunshan University, adapted from [Stanford](https://github.com/RylanSchaeffer/Stanford-LaTeX-Poster-Template). The color palette is taken from the [Brand Identity System for Duke Kunshan University](https://dku-web-admissions.s3.cn-north-1.amazonaws.com.cn/dkumain/wp-content/uploads/mainsite/2022/05/brand-guide-compressed_2021.pdf).
 
 Before using the template, you might need to install the fonts under `fonts\`. Please compile it with XeLaTeX or LuaLaTeX.
 
